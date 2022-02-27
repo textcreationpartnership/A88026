@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent to the Right Honourable William Lenthall, Esquire, Speaker to the Honourable House of Commons: concerning the raising of the siege of Taunton by the Parliaments forces. / By a worthy gentleman in Sir Thomas Fairfax his army. Ordered that the Commons assembled in Parliament, that this letter be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>Worthy Gentleman in Sir Thomas Fairfax His Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88026</idno>
+            <idno type="STC">Wing L1625</idno>
+            <idno type="STC">Thomason E292_22</idno>
+            <idno type="STC">ESTC R200150</idno>
+            <idno type="EEBO-CITATION">99860955</idno>
+            <idno type="PROQUEST">99860955</idno>
+            <idno type="VID">113082</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88026)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113082)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E292[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent to the Right Honourable William Lenthall, Esquire, Speaker to the Honourable House of Commons: concerning the raising of the siege of Taunton by the Parliaments forces. / By a worthy gentleman in Sir Thomas Fairfax his army. Ordered that the Commons assembled in Parliament, that this letter be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Worthy Gentleman in Sir Thomas Fairfax His Army.</author>
+                  <author>Lenthall, William, 1591-1662.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Husbands printer to the Honourable House of Commons,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Iuly 10. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Taunton (England) --  History --  Siege, 1645 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113082:1" rendition="simple:additions"/>
+            <p>A LETTER Sent to the Right Honourable <hi>William Lenthall,</hi> Eſquire, Speaker to the Honourable Houſe of Commons: Concerning the raiſing of the Siege of TAVNTON by the Parliaments Forces.</p>
+            <p>BY a worthy Gentleman in Sir <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax</hi> his Army.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered by the Commons Aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, that this Letter be forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON, Printed by <hi>Edward Husbands</hi> Printer to the Honourable Houſe of Commons, Iuly 10. 1645.</p>
+            <pb facs="tcp:113082:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:113082:2"/>
+            <head>To the Honorable <hi>William Lenthall</hi> Speaker of the Honourable Houſe of Commons.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Writ to you yerſterday, of <hi>Gorings</hi> Ad<g ref="char:EOLhyphen"/>vance againſt <hi>Taunton,</hi> after he had drawn off as far as <hi>Black Down,</hi> which he did in hopes our men would have drawn out and engaged; but ſeeing himſelf beguiled in his deſign, he re<g ref="char:EOLhyphen"/>turned again, had hot skirmiſhes; but our forces gave him entertainment, and killed abundance of his men: And on <hi>Thurſday</hi> noon, drew off again, facing the Town till night, and Quartered on Fryday night at <hi>Ilmiſter:</hi> The Generall Advanced on Fryday to <hi>Beu<g ref="char:EOLhyphen"/>minſter,</hi> twelve miles from <hi>Dorcheſter,</hi> his Horſe into <hi>Crookhorne,</hi> where we fell on the Enemy, took a Lieu<g ref="char:EOLhyphen"/>tenant, and divers other of Sir <hi>Rob: Welches</hi> troop, being on their Rear; we ſent another party between <hi>Sherborn</hi> and <hi>Somerton,</hi> and fell on their Van, and took ſome Priſoners there alſo: This ſo Alarumed the Enemy, that they broke down their bridges. There are three Regiments of Horſe, and ſix hundred Dragoones in
+<pb n="4" facs="tcp:113082:3"/> purſuit of them, and to bring intelligence of their mo<g ref="char:EOLhyphen"/>tion: Our poor Foot (being impatient of the Relief of their friends at <hi>Taunton)</hi> Marched ſixty two miles in five dayes, and offered at <hi>Dorcheſter,</hi> after twelve miles march that day, to march all that night to Relieve <hi>Taunton,</hi> hearing that <hi>Goring</hi> was fallen on again; as yet none of our friends in the Town is come to us; we expect them this day about noon: and then a Ge<g ref="char:EOLhyphen"/>nerall Councel of War being called, there will be a reſolution taken, how to order our marches after the Enemy, with ſec<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rity to the Weſt: But our poor foot muſt a while refreſh themſelves, before they move, and our Horſe are yet in no condition to follow farre: I cannot, in this Letter, tell you of the ſtraights of the Town, or any other particular, but that the Enemy hath left the Siege, and our friends at liberty (the Lord be praiſed for it) though this be a ſervice of great concernment to the Kingdom, and the Weſt in particular; yet I account the quieting of the Club-men, and the reputation our Army hath with them by relieving this Town, and marching quietly through their Country, and making the Ene<g ref="char:EOLhyphen"/>my flie, is of more concernment, then at firſt is appre<g ref="char:EOLhyphen"/>hended; one <hi>Holles</hi> the violent Ringleader of the Club men, came to <hi>Dorcheſter</hi> with 4 others from the Club<g ref="char:EOLhyphen"/>men, for leave to Petition the Parliament; he was moſt peremptory and inſolent in his Carriage, and but for his being ſent as a Meſſenger, he had been committed, as this man is the head of that giddy-head faction in <hi>Dorſetſhire,</hi> ſo his Brother for <hi>Wiltſhire;</hi> fellows that delude the poor Country-men: whom I hope we ſhall undeceive before we return, and ſome
+<pb n="5" facs="tcp:113082:3"/> ſtay we muſt make to ſalve that ſore, for it is not yet half cured: The Club-men fell upon <hi>Goodale,</hi> Colo<g ref="char:EOLhyphen"/>nell <hi>Pindars</hi> Meſſenger, took his Letters to the Gene<g ref="char:EOLhyphen"/>rall from him, his horſe and Armes; the Governour of <hi>Lime</hi> fell upon them, and killed eighty of them, they dared him to fight; the Governour of <hi>Lime</hi> is hurt, and the Mayor was unhorſed; this was on <hi>Thurſday</hi> laſt.</p>
+            <closer>
+               <dateline>From the Lady <hi>Strode;</hi> Houſe, neer <hi>Beuminſter</hi> 
+                  <date>July the 5. <hi>Saturday,</hi> five in the morning.</date>
+               </dateline>
+
+
+
+            </closer>
+            <postscript>
+               <p>THe Meſſenger not being gone, I thought fit to adde that the Army is marched this day to <hi>Crookhorn,</hi> where the Generall now is, and hath met with a Letter from Colonell <hi>Weldon,</hi> of the liberty they now are in: many wounded, and driven to great extremities, eſpe<g ref="char:EOLhyphen"/>cially for Ammunition: There is a ſecond and third Reſerve of Horſe and Dragoones gone after the firſt party, to fall on the Rear of the Enemy: News is come, they are neer engagement, the iſſue I know not: Lieutenant Generall <hi>Cromwell</hi> is gone in perſon, to take care of the mannagement of the purſuit; our Horſe are harraſted out, yet go after the Enemy cheerfully: we hear nothing of the Treaſure, which will prove much to our prejudice; for now the Souldier will live on free Quarter, and diſcontent the Country. If ever an Army deſerved to be truſted with a fortnights Pay before hand, this doth; for they never preſſe for mo<g ref="char:EOLhyphen"/>ney, till they be extreamly neceſſitated, and in arrear.</p>
+               <closer>
+                  <dateline>Crookhorn, <date>July 5. 1645. two in the afternoon.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+            <postscript>
+               <pb n="6" facs="tcp:113082:4"/>
+               <p>THe Meſſenger ſtaying till the Generall returned from the party that purſued <hi>Goring,</hi> I may adde this, That our Horſe purſued them to the Bridge called <hi>Load</hi> bridge, which the Enemy broke down, and made good againſt our Horſe, having a ſtrong Breaſt-work raiſed. The Generall inſtantly Commanded a Bri<g ref="char:EOLhyphen"/>gade of Foot, with a Train, to march (notwithſtanding their wearineſſe) to beat them off that paſſe: The foot marched as cheerfully, as if they had not felt a long march: but the Enemy broke down another Bridge, nine miles hence, a little on this ſide <hi>Somerton,</hi> and be<g ref="char:EOLhyphen"/>fore we could make up this Bridge to paſſe with our Horſe, they broke down the other Bridge, and made a Breaſt-work; yet our Horſe Commanded by Sir <hi>Robert Pye,</hi> Charged them near the Bridge, and took a Cornet and ſome others Priſoners: but by rea<g ref="char:EOLhyphen"/>ſon of their Dragoones at the Bridge, our Foot and Train being not able to come to us, we could not poſſibly force them thence this night; for the Ge<g ref="char:EOLhyphen"/>nerall returned, leaving ſix Regiments of Horſe beſides Dragoons, to watch their drawing off, and ſo make up the bridge as faſt as may be: At <hi>Ilcheſter</hi> we cannot paſſe, for the Enemy hath a Garriſon there: I doubt we ſhall not poſſibly engage them, by reaſon we are not in a condition to follow; beſides our great work is yet to do, the ſettlement of the Weſt: This bearer, Maſter <hi>Craven</hi> the Meſſenger, went with us af<g ref="char:EOLhyphen"/>ter the Enemy, and can inform you more particularly: I much fear <hi>Goring</hi> will wheel into <hi>Dorſetſhire</hi> to joyne with Malignant <hi>Holles,</hi> and the Club-men.</p>
+               <p>But <hi>Gorings</hi> diſorderly running away, perhaps may daunt them that they dare not: I believe on <hi>Monday</hi>
+                  <pb n="7" facs="tcp:113082:4"/> the Generall will go to <hi>Taunton</hi> with a few horſe (where Maſter <hi>Aſh</hi> and Maſter <hi>Moor</hi> are) to ſee what is needfull for that place.</p>
+               <closer>
+                  <dateline>Crookhorne, <date>
+                        <hi>Iuly</hi> 5. twelve at night.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+            <postscript>
+               <p>The Generall left the Foot that purſued <hi>Goring</hi> at <hi>South-Petherton,</hi> five miles from <hi>Crookhorne:</hi> The Ene<g ref="char:EOLhyphen"/>mies Foot, being not 2500. eight piece of Ordnance, and thirty Carriages, marched by ſix this morning from <hi>Somerton</hi> towards <hi>Wells,</hi> and ſome Club-men with them. The Meſſenger yet ſtaying longer; I adde this, That the Club-men are riſen in <hi>Somerſetſhire,</hi> hath diſarmed an hundred of <hi>Gorings</hi> men, taken their Draughts from them: <hi>Goring</hi> makes a halt about <hi>Long-Sutton:</hi> our whole Army marches this morning to engage them if poſſible; the Bearer can inform the Houſe more.</p>
+               <closer>
+                  <dateline>Crookhorne <date>6. <hi>July,</hi> two in the night.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+            <postscript>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>PArdon my ſcribling, I am forced to do things in haſte, you have thtee dayes paſſages together in the incloſed.</p>
+               <closer>
+                  <dateline>Crookhorn, <date>July 7. two in the morning.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <p>Iuſt now another is come out of <hi>Gorings</hi> Army, in<g ref="char:EOLhyphen"/>formes of his ſtay in hopes of the Club-men to joyn with him: I believe our Advance will interrupt him: more hereafter.</p>
+               </postscript>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
